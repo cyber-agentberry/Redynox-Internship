@@ -31,7 +31,7 @@ The internship was divided into two main tasks:
 
 You can view or download the complete internship report below:
 
-📥 **[Download Redynox Cybersecurity Internship Report (PDF)](./Redynox_Cybersecurity_internship_report.pdf)**
+📥 **[Download Redynox Cybersecurity Internship Report (PDF)](./Redynox_cybersecurity_internship1_report.pdf)**
 
 This report includes:
 - Background and objectives of each task
