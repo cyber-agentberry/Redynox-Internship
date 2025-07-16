@@ -59,7 +59,7 @@ This report includes:
 
 ## 📸 Screenshots
 
-All screenshots used in the report can be found in the `/screenshots` directory, including:
+All screenshots used in the report can be found in the [screenshots](./screenshots) directory, including:
 
 - Lab setup and firewall rule configurations
 - Wireshark traffic captures (reverse shell)
